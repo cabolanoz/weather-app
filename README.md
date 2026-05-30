@@ -2,6 +2,14 @@
 
 Simple weather application built with Next.js, TypeScript, Tailwind CSS, Jest, and React Testing Library.
 
+# Weather App
+
+Simple weather application built with Next.js, TypeScript, Tailwind CSS, Jest, and React Testing Library.
+
+## Live Demo
+
+[View deployed app](https://weather-app-virid-delta-94.vercel.app/)
+
 ## Requirements
 
 - Docker
