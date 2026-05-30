@@ -17,7 +17,7 @@ export async function GET(request: Request) {
   if (!apiKey) {
     return NextResponse.json(
       { message: 'La API key de OpenWeather no está configurada' },
-      { status: 400 },
+      { status: 500 },
     );
   }
 
